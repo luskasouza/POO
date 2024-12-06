@@ -1,0 +1,7 @@
+entities/Departamento.class
+entities/Beneficio.class
+entities/Funcionario.class
+entities/FolhaDePagamento.class
+com/mycompany/application/Application.class
+entities/AvaliacaoDesempenho.class
+entities/Recrutamento.class
